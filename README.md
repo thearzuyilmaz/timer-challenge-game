@@ -1,4 +1,8 @@
-# TimerChallenge
+## 🖼️ Game Screen
+![Gameplay Screenshot](./src/assets/timer-challenge-game.png)
+
+
+# TimerChallengeGame
 
 The **TimerChallenge** is a fun and interactive React-based application where users can estimate and stop a timer when they think it's about to finish. The goal is to stop the timer as close to the target time as possible. This app uses React hooks (`useState`, `useRef`, `useImperativeHandle`) and React Portals to manage state and modals.
 
@@ -15,3 +19,4 @@ The **TimerChallenge** is a fun and interactive React-based application where us
 - **React**: A JavaScript library for building user interfaces.
 - **React Portals**: For rendering modals outside the DOM hierarchy.
 - **CSS**: For styling the application.
+
